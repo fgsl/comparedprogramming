@@ -1,5 +1,6 @@
-# Comparing Programming
-**Numerical computing implemented in 4 different languages**
+# Compared Programming
+
+**Algorithm implementations in different languages**
 
 ## Eudoxo Algorithm
 
